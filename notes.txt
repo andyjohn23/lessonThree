@@ -1,6 +1,5 @@
 git version control system that is designed to handle small to large projects simulatneously
 github web based platform that uses git version control open source projects
-file types
 .git - file type
 git init - initialize
 branches - main/master
